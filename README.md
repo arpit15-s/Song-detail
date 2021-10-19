@@ -1,0 +1,2 @@
+# Song-detail
+Redux
